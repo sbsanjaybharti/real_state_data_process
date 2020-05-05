@@ -56,12 +56,11 @@ Flask api to push raw data into database and read the data from database.
 4. python run.py test
  
 #### Description:
-####1. Design pattern:
-        a. Creational: Builder, Factory and Prototype design pattern
-        b. Structural: Proxy and Bridge design pattern
-        c. Behaviral: Mediator and Chain of responsibility design pattern
-####2.Architecture:
-        MVC architecture, Broker  Architecture pattern
+1. Design pattern:
+    a. Creational: Builder, Factory and Prototype design pattern
+    b. Structural: Proxy and Bridge design pattern
+    c. Behaviral: Mediator and Chain of responsibility design pattern
+2.Architecture: MVC architecture, Broker  Architecture pattern
  
 ##### Feature:
 1. Celery is used to sending data to queue so that working can divide to multiple worker or server
