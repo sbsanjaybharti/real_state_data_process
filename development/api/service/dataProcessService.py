@@ -8,6 +8,9 @@ import datetime
 import uuid
 import pandas as pd
 
+#############################################################################
+# Class declare in single responsible & Factory method design pattern
+#############################################################################
 class assetData:
 
     def __init__(self, asset):

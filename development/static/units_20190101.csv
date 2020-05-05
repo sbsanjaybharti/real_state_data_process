@@ -1,0 +1,29 @@
+﻿portfolio;asset_ref;asset_address;asset_zipcode;asset_city;asset_is_restricted;asset_yoc;unit_ref;unit_size;unit_is_rented;unit_rent;unit_type;unit_tenant;unit_lease_start;unit_lease_end;data_timestamp
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_1;130;TRUE;900;RESIDENTIAL;Kelley Montufar;01.01.90;;01.01.19
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_2;130;TRUE;1500;RESIDENTIAL;Katelyn Mattern;01.04.00;01.04.20;01.01.19
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_3;90;TRUE;1200;RESIDENTIAL;Rebbecca Delatorre;01.03.17;01.03.27;01.01.19
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_4;95;FALSE;;RESIDENTIAL;;;;01.01.19
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_5;50;TRUE;500;RESIDENTIAL;Thi Millet;01.02.16;01.02.21;01.01.19
+Houses;A_1;Am Kupfergraben 6;10117;Berlin;TRUE;1876;A_1_6;250;TRUE;2500;OFFICE;Fortune Motors GmbH;15.01.12;15.01.32;01.01.19
+Test Portfolio;A_2;Spreeweg 1;10557;Berlin;TRUE;1786;A_2_1;400;TRUE;4000;RESIDENTIAL;Frank-Walter Steinmeier;19.03.17;19.03.22;01.01.19
+Test Portfolio;A_2;Spreeweg 1;10557;Berlin;TRUE;1786;A_2_1;4000;TRUE;20000;OFFICE;Bundesrepublik GmbH;19.03.17;19.03.22;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_1;300;TRUE;5000;OFFICE;Tech GmbH;01.01.16;01.01.26;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_2;200;TRUE;3000;OFFICE;Tech GmbH;01.01.16;01.01.26;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_3;300;TRUE;6000;OFFICE;Tech GmbH;01.01.16;01.01.26;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_4;220;TRUE;5300;OFFICE;Tech GmbH;01.01.16;01.01.26;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_5;332;TRUE;7000;OFFICE;Supermarket GmbH;01.04.18;01.04.38;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_6;123;TRUE;4030;OFFICE;Supermarket GmbH;01.04.18;01.04.38;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_7;330;TRUE;2500;OFFICE;Trains Gmbh;01.02.02;01.02.22;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_8;400;FALSE;;OFFICE;;;;01.01.19
+Test Portfolio;A_3;Potsdamer Platz 3;10785;Berlin;FALSE;1961;A_3_9;300;FALSE;;OFFICE;;;;01.01.19
+Test Portfolio;A_4;Neuer Wall 17;20354;Hamburg;FALSE;2002;A_4_1;200;TRUE;6000;RETAIL;Hats GmbH;01.06.04;01.06.34;01.01.19
+Test Portfolio;A_4;Neuer Wall 17;20354;Hamburg;FALSE;2002;A_4_2;200;TRUE;6000;RETAIL;Jeans GmbH;01.06.04;01.06.24;01.01.19
+Test Portfolio;A_4;Neuer Wall 17;20354;Hamburg;FALSE;2002;A_4_3;200;TRUE;6000;RETAIL;Shirts GmbH;15.02.15;15.02.25;01.01.19
+Test Portfolio;A_4;Neuer Wall 17;20354;Hamburg;FALSE;2002;A_4_4;200;TRUE;6000;RETAIL;Suits Gmbh;01.04.10;01.04.30;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_1;60;TRUE;6000;RETAIL;Suits Gmbh;01.04.10;01.04.30;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_2;50;TRUE;400;RESIDENTIAL;Tabatha Ruffo;01.09.18;01.09.19;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_3;55;TRUE;450;RESIDENTIAL;Delmar Poissant;01.09.18;01.09.19;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_4;30;FALSE;;RESIDENTIAL;;;;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_5;60;FALSE;;RESIDENTIAL;;;;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_6;65;TRUE;750;RESIDENTIAL;Glenn Tomson;01.09.18;01.09.19;01.01.19
+Houses;A_5;Fritz-Löffler-Straße 16;01069;Dresden;FALSE;1995;A_5_7;39;TRUE;300;RESIDENTIAL;Kiyoko Pamplin;01.09.18;01.09.19;01.01.19

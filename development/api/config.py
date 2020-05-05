@@ -47,9 +47,11 @@ class Config:
 class DevelopmentConfig(Config):
     DEBUG = True
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    ALLOWED_HOST = 'http://172.20.0.9:9000'
 
 
 class TestingConfig(Config):
+    # DB_NAME = 'realxdata_test'
     DEBUG = True
     TESTING = True
     PRESERVE_CONTEXT_ON_EXCEPTION = False

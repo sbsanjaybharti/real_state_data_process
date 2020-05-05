@@ -14,7 +14,7 @@ file_upload.add_argument('file',
                          type=werkzeug.datastructures.FileStorage,
                          location='files',
                          required=True,
-                         help='Document 1')
+                         help='CSV file only')
 
 @api.route('/')
 class file(Resource):
