@@ -1,4 +1,4 @@
-# Realxdata API
+# Real state data API
 Flask api to push raw data into database and read the data from database.
 
 ### Requirement:
